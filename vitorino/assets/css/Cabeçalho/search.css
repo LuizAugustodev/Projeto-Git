@@ -1,0 +1,28 @@
+.texto__btn {
+    background: #B0C4DE;
+    height: 40px;
+    width: 400px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0 0 0;
+}
+
+.pesquisa__cabecalho {
+    background: none;
+    border: 0;
+    outline: 0;
+    border-bottom: solid 2px black;
+    width: 100%;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.pesquisa__cabecalho::placeholder {
+    color: black;
+}
+
+.search__btn {
+    float: inline-end;
+}

@@ -1,0 +1,9 @@
+.logo__cabecalho {
+    display: flex;
+    align-items: center;
+}
+
+.logo__cabecalho p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

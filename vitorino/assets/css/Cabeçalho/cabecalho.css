@@ -1,0 +1,11 @@
+.cabecalho {
+    align-items: center;
+    background: #B0C4DE;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 10rem;
+}
+
+.imagem__temp {
+    margin: 0;
+}
